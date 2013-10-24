@@ -1,5 +1,5 @@
 //
-//  RMViewController.h
+//  RMTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ryan Macaspac on 10/23/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RMViewController : UIViewController
+@interface RMTableViewController : UITableViewController
 
 @end
